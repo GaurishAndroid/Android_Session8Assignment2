@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listOptions">
+        <item>70 hz</item>
+        <item>80 hz</item>
+        <item>90 hz</item>
+    </string-array>
+
+
+
+</resources>
